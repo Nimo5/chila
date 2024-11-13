@@ -1,0 +1,171 @@
+body{
+background-color: black;
+color: rgb(189, 27, 189);
+margin: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+#imgg{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+  object-fit: cover;
+}
+#div_img{
+    margin: 0;
+justify-content: center;
+align-items: center;
+
+}
+h1{
+    font-size:20px;
+ 
+}
+h2{
+    font-size: 30px;
+    text-align: center;
+}
+/*aimen*/
+#textaimen{
+width: 300px;
+text-align: center;
+height: 40px;
+    background-color: rgb(189, 27, 189);
+    border-radius: 20px;
+padding: 5px;
+    font-size: 30px;
+    display: flex;
+}
+#botaimen{
+height: 75px;
+    margin: 2px;
+    border-radius: 20px; 
+    background-color: rgb(189, 27, 189);
+  
+
+}
+#text_aimen{
+    font-size: 30px;
+    color:rgb(189, 27, 189);
+}
+/*maroun*/
+#textmaroun{
+    width: 300px;
+    text-align: center;
+    height: 40px;
+        background-color: rgb(189, 27, 189);
+        border-radius: 20px;
+    padding: 5px;
+        font-size: 30px;
+        display: flex;
+    }
+#botmaroun{
+        height: 75px;
+            margin: 2px;
+            border-radius: 20px; 
+            background-color: rgb(189, 27, 189);
+}
+#text_maroun{
+    font-size: 30px;
+    color:rgb(189, 27, 189);
+}
+/*sohaib*/
+#textsohaib{
+    width: 300px;
+    text-align: center;
+    height: 40px;
+        background-color: rgb(189, 27, 189);
+        border-radius: 20px;
+    padding: 5px;
+        font-size: 30px;
+        display: flex;
+    }
+#botsohaib{
+        height: 75px;
+            margin: 2px;
+            border-radius: 20px; 
+            background-color: rgb(189, 27, 189);
+}
+#text_sohaib{
+    font-size: 30px;
+    color:rgb(189, 27, 189);
+}
+/*amin*/
+#textamin{
+    width: 300px;
+    text-align: center;
+    height: 40px;
+        background-color: rgb(189, 27, 189);
+        border-radius: 20px;
+    padding: 5px;
+        font-size: 30px;
+        display: flex;
+    }
+#botamin{
+        height: 75px;
+            margin: 2px;
+            border-radius: 20px; 
+            background-color: rgb(189, 27, 189);
+}
+#text_amin{
+    font-size: 30px;
+    color:rgb(189, 27, 189);
+}
+/*rida*/
+#textrida{
+    width: 300px;
+    text-align: center;
+    height: 40px;
+        background-color: rgb(189, 27, 189);
+        border-radius: 20px;
+    padding: 5px;
+        font-size: 30px;
+        display: flex;
+    }
+#botrida{
+        height: 75px;
+            margin: 2px;
+            border-radius: 20px; 
+            background-color: rgb(189, 27, 189);
+}
+#text_rida{
+    font-size: 30px;
+    color:rgb(189, 27, 189);
+}
+/*hkim*/
+#texthkim{
+    width: 300px;
+    text-align: center;
+    height: 40px;
+        background-color: rgb(189, 27, 189);
+        border-radius: 20px;
+    padding: 5px;
+        font-size: 30px;
+        display: flex;
+    }
+#bothkim{
+        height: 75px;
+            margin: 2px;
+            border-radius: 20px; 
+            background-color: rgb(189, 27, 189);
+}
+#text_hkim{
+    font-size: 30px;
+    color:rgb(189, 27, 189);
+}
+#finaltext{
+    font-size: 20px;
+    color:rgb(189, 27, 189);
+}
+#botf{
+    height: 75px;
+        margin: 2px;
+        border-radius: 20px; 
+        background-color: rgb(189, 27, 189);
+}
+
+
+
+
